@@ -1,3 +1,15 @@
+### IDE ###
+.idea/
+.run/
+out/
+*.iml
+*.ipr
+
+
+### documents ###
+docs/
+
+
 ### temporary ###
 temp/
 *.tmp
