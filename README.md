@@ -58,10 +58,10 @@ robotics, intelligent and passive houses.
 
 # $ reachme
 
-<p style="text-align:center">
+<p align="center">
     If you are willing to talk, about anything, feel free to contact me.
 </p>
-<p style="text-align:center">
+<p align="center">
     <a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
