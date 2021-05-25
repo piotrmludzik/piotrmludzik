@@ -24,6 +24,7 @@ robotics, intelligent and passive houses.
 <p align="center">
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&color=444444&logo=spring&logoColor=white" />
     <img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=hibernate&logo=hibernate&logoColor=white" />
+    <img alt="JavaFX" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=javafx&logo=javafx&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&color=444444&logo=flask&logoColor=white" />
     <img alt="Jinja" src="https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&color=444444&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=thymeleaf&logo=thymeleaf&logoColor=white" />
@@ -44,7 +45,9 @@ robotics, intelligent and passive houses.
 
 <h3 align="center">Tools</h3>
 <p align="center">
+    <img alt="Scene Builder" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=scene%20builder&logo=scene-builder&logoColor=white" />
     <img alt="Maven" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=maven&logo=apache-maven&logoColor=white" />
+    <img alt="Environment" src="https://img.shields.io/static/v1?style=for-the-badge&color=444444&label=&message=environment&logo=environment&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&color=444444&logo=heroku&logoColor=white" />
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&color=444444&logo=Repl.it&logoColor=white" />
 </p>
