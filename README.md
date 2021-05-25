@@ -10,50 +10,58 @@ robotics, intelligent and passive houses.
 
 # $ stack
 
-### Programming Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
+<h3 align="center">Frameworks</h3>
+<p align="center">
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=hibernate&color=59666c&logo=hibernate&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+    <img alt="Jinja" src="https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white" />
+    <img alt="Thymeleaf" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=thymeleaf&color=005f0f&logo=thymeleaf&logoColor=white" />
+    <img alt="Psycopg" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=psycopg&color=59666c&logo=psycopg&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### Frameworks:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&label=&message=hibernate&color=59666c&logo=hibernate&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
-![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&label=&message=thymeleaf&color=005f0f&logo=thymeleaf&logoColor=white)
-![Psycopg](https://img.shields.io/static/v1?style=for-the-badge&label=&message=psycopg&color=59666c&logo=psycopg&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h3 align="center">Databases</h3>
+<p align="center">
+    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
+<h3 align="center">Version controls</h3>
+<p align="center">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3 align="center">Tools</h3>
+<p align="center">
+    <img alt="Maven" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=maven&color=c71a36&logo=apache-maven&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white" />
+</p>
 
+<h3 align="center">IDE editors</h3>
+<p align="center">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
+    <img alt="WebStorm" src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=webstorm&color=black&logo=webstorm&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
 
-### VERSION CONTROLS:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### Tools:
-![Maven](https://img.shields.io/static/v1?style=for-the-badge&label=&message=maven&color=c71a36&logo=apache-maven&logoColor=white)
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white)
-
-### IDE Editors:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&label=&message=webstorm&color=black&logo=webstorm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-
-### Operating systems:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<h3 align="center">Operating systems</h3>
+<p align="center">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 
 # $ reachme
