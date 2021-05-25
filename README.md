@@ -67,6 +67,12 @@ robotics, intelligent and passive houses.
 </p>
 
 
+# $ stats
+<p align="center">
+    <img alt="GitHub profile' stats" src="https://metrics.lecoq.io/piotrmludzik?template=classic&languages=1&languages.limit=12&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsaw" />
+</p>
+
+
 # $ reachme
 
 <p align="center">
