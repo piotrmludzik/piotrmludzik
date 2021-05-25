@@ -52,7 +52,7 @@ robotics, intelligent and passive houses.
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&color=444444&logo=Repl.it&logoColor=white" />
 </p>
 
-<h3 align="center">IDE editors</h3>
+<h3 align="center">IDEs</h3>
 <p align="center">
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&color=444444&logo=intellij-idea&logoColor=white" />
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&color=444444&logo=PyCharm&logoColor=white" />
