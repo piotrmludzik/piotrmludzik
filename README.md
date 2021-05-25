@@ -62,7 +62,7 @@ robotics, intelligent and passive houses.
 
 <h3 align="center">Operating systems</h3>
 <p align="center">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&color=444444&logo=linux&logoColor=black" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&color=444444&logo=linux&logoColor=white" />
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&color=444444&logo=windows&logoColor=white" />
 </p>
 
