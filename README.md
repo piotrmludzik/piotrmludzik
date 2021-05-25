@@ -100,6 +100,4 @@ robotics, intelligent and passive houses.
 
 <p align="center">
     <img alt="" src="https://badges.pufler.dev/visits/piotrmludzik/piotrmludzik?label=Profile%20views&labelColor=333333&color=777777" />
-    <img alt="" src="https://badges.pufler.dev/repos/piotrmludzik?label=Public%20repositories&labelColor=333333&color=777777" />
-    <img alt="" src="https://badges.pufler.dev/years/piotrmludzik?label=Years%20on%20GitHub&labelColor=333333&color=777777" />
 </p>
