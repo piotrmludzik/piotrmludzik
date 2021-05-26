@@ -68,8 +68,18 @@ robotics, intelligent and passive houses.
 
 
 # $ stats
+
 <p align="center">
     <img alt="GitHub profile' stats" src="https://metrics.lecoq.io/piotrmludzik?template=classic&languages=1&languages.limit=12&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsaw" />
+</p>
+
+
+# $ challenges
+
+<p align="center">
+    <a href="https://www.codewars.com/users/octopetrus/">
+        <img alt="Gmail" src="https://www.codewars.com/users/octopetrus/badges/large" />
+    </a>
 </p>
 
 
@@ -78,6 +88,7 @@ robotics, intelligent and passive houses.
 <p align="center">
     If you are willing to talk, about anything, feel free to contact me.
 </p>
+
 <p align="center">
     <a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
