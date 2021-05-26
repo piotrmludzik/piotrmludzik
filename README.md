@@ -77,7 +77,7 @@ robotics, intelligent and passive houses.
 # $ challenges
 
 <p align="center">
-    <a href="https://www.codewars.com/users/octopetrus/">
+    <a href="https://www.codewars.com/users/octopetrus/" target="_blank">
         <img alt="Gmail" src="https://www.codewars.com/users/octopetrus/badges/large" />
     </a>
 </p>
@@ -90,19 +90,19 @@ robotics, intelligent and passive houses.
 </p>
 
 <p align="center">
-    <a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!">
+    <a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://twitter.com/piotrmludzik">
+    <a href="https://twitter.com/piotrmludzik" target="_blank">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/piotrmludzik">
+    <a href="https://www.linkedin.com/in/piotrmludzik" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://dev.to/piotrmludzik">
+    <a href="https://dev.to/piotrmludzik" target="_blank">
         <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/>
     </a>
-    <a href="https://stackoverflow.com/users/edit/14618240">
+    <a href="https://stackoverflow.com/users/edit/14618240" target="_blank">
         <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>
 </p>
