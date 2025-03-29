@@ -1,114 +1,95 @@
-![application preview](readme_res/background.jpg)
+![Cover photo](/assets/background.jpg)
+<p align="center"><em>"Less is more."</em> — Ludwig Mies van der Rohe</p>
 
+<br>
 
 # $ whoami
 
-In 2019, I decided to change my profession and become a programmer. Today I am a Junior Full-stack Developer. Coding and learning
-new technologies are my passions. Moreover, I am interested in technological novelties, web safety and software security,
-robotics, intelligent and passive houses.
+I’m a **Frontend Developer** with a Backend background. Passionate about building modern, scalable, and maintainable
+web applications with clean, readable code. Focused on delivering thoughtful technical solutions and crafting
+user-friendly interfaces with tools like Figma.
 
+<br>
 
 # $ stack
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=gray&logo=java&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&color=gray&logo=python&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&color=gray&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&color=gray&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&color=gray&logo=javascript&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&color=gray&logo=markdown&logoColor=white" />
+	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+	<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">WEB</h3>
 <p align="center">
-    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&color=gray&logo=spring&logoColor=white" />
-    <img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=hibernate&logo=hibernate&logoColor=white" />
-    <img alt="JavaFX" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=javafx&logo=javafx&logoColor=white" />
-    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&color=gray&logo=flask&logoColor=white" />
-    <img alt="Jinja" src="https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&color=gray&logoColor=white" />
-    <img alt="Thymeleaf" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=thymeleaf&logo=thymeleaf&logoColor=white" />
-    <img alt="Psycopg" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=psycopg&logo=psycopg&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&color=gray&logo=bootstrap&logoColor=white" />
+	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+	<img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+	<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+	<img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+	<img alt="NgRx" src="https://img.shields.io/badge/-NgRx-8B5CF6?style=for-the-badge&logo=redux&logoColor=white" />
+	<img alt="PrimeNG" src="https://img.shields.io/badge/PrimeNG-5B3CC4?style=for-the-badge&logo=primeng&logoColor=white" />
+	<img alt="Material UI" src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
+
+<h3 align="center">Style & UI</h3>
+<p align="center">
+	<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+	<img alt="PrimeFlex" src="https://img.shields.io/badge/PrimeFlex-5B3CC4?style=for-the-badge&logo=primeng&logoColor=white" />
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&color=gray&logo=postgresql&logoColor=white" />
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h3 align="center">Version controls</h3>
+<h3 align="center">Tools & DevOps</h3>
 <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&color=gray&logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&color=gray&logo=github&logoColor=white" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-    <img alt="Scene Builder" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=scene%20builder&logo=scene-builder&logoColor=white" />
-    <img alt="Maven" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=maven&logo=apache-maven&logoColor=white" />
-    <img alt="Environment" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=environment&logo=environment&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&color=gray&logo=heroku&logoColor=white" />
-    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&color=gray&logo=Repl.it&logoColor=white" />
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+	<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+	<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+	<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 <h3 align="center">IDEs</h3>
 <p align="center">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&color=gray&logo=intellij-idea&logoColor=white" />
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&color=gray&logo=PyCharm&logoColor=white" />
-    <img alt="WebStorm" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=webstorm&logo=webstorm&logoColor=white" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&color=gray&logo=visual-studio&logoColor=white" />
+	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+	<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+	<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h3 align="center">Operating systems</h3>
+<h3 align="center">UX/UI</h3>
 <p align="center">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&color=gray&logo=linux&logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&color=gray&logo=windows&logoColor=white" />
-</p>
-
-
-# $ stats
-
-<p align="center">
-    <img alt="GitHub profile' stats" src="https://metrics.lecoq.io/piotrmludzik?template=classic&languages=1&languages.limit=12&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsawhttps://metrics.lecoq.io/piotrmludzik?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsaw&config.padding=0%25%2C%200%25" />
-</p>
-
-
-# $ challenges
-
-<p align="center">
-    <a href="https://www.codewars.com/users/octopetrus/" target="_blank">
-        <img alt="Gmail" src="https://www.codewars.com/users/octopetrus/badges/large" />
-    </a>
-</p>
-
-
-# $ reachme
-
-<p align="center">
-    If you are willing to talk, about anything, feel free to contact me.
-</p>
-
-<p align="center">
-    <a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/piotrmludzik" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/piotrmludzik" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/piotrmludzik" target="_blank">
-        <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/>
-    </a>
-    <a href="https://stackoverflow.com/users/edit/14618240" target="_blank">
-        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-    </a>
+	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+	<img alt="Krita" src="https://img.shields.io/badge/Krita-3BABDD?style=for-the-badge&logo=krita&logoColor=white" />
 </p>
 
 <br>
 
+# $ reachme
+
 <p align="center">
-    <img alt="" src="https://badges.pufler.dev/visits/piotrmludzik/piotrmludzik?label=Profile%20views&labelColor=333333&color=777777" />
+	If you are willing to talk, about anything, feel free to contact me.
+</p>
+
+<p align="center">
+	<a href="mailto:piotr.mludzik@gmail.com?subject=Hello%20Piotr,%20from%20GitHub!" target="_blank">
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/piotrmludzik/" target="_blank">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+	<img alt="Profile Views" src="https://badges.pufler.dev/visits/piotrmludzik/piotrmludzik?style=flat-square&label=Profile%20Views&labelColor=333333&color=777777" />
 </p>
